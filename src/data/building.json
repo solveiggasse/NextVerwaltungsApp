@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "street": "Musterstraße",
+        "streetNumber": "1",
+        "postal_code": "12345",
+        "city": "Musterstadt",
+        "emission": 50.2,
+        "owner": "Max Mustermann",
+        "yearConstruction": 1998,
+        "netArea": 200,
+        "buildingType": "residential"
+    },
+    {
+        "id": 5,
+        "street": "Hauptstraße",
+        "streetNumber": "23",
+        "postal_code": "54321",
+        "city": "Großstadt",
+        "emission": 28.6,
+        "owner": "Sabine Müller",
+        "yearConstruction": 1976,
+        "netArea": 400,
+        "buildingType": "commercial"
+    },
+    {
+        "id": 3,
+        "street": "Am Park",
+        "streetNumber": "7",
+        "postal_code": "67890",
+        "city": "Kleinstadt",
+        "emission": 15.3,
+        "owner": "Johannes Schmidt",
+        "yearConstruction": 2005,
+        "netArea": 150,
+        "buildingType": "residential"
+    }
+]

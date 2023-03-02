@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Barlow';
+    src: url('../../public/fonts/Barlow-Regular.ttf') format('truetype');
+}
+
+body{
+    font-family: 'Barlow', sans-serif;
+}

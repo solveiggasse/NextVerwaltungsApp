@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "salutation": "Herr",
+        "first_name": "Max",
+        "last_name": "Mustermann",
+        "favorites": [1,3]
+    },
+    {
+        "id": 2,
+        "salutation": "Herr",
+        "first_name": "Test",
+        "last_name": "User",
+        "favorites": [5]
+    }
+]
